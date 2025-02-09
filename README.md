@@ -30,11 +30,11 @@ Created interactive dashboard using Excel and added Filters and Slicers so users
 Key Insights
 --------------------
 
-The Middle Age Group (31-54) shows the highest number of bike purchases. The Sales Team should focus on this group with promotions as they're more likely to respond positively and buy bikes.
+- The Middle Age Group (31-54) shows the highest number of bike purchases. The Sales Team should focus on this group with promotions as they're more likely to respond positively and buy bikes.
 
-Both male and female with higher average income in their respective category were more likely to purchase bikes.
+- Both male and female with higher average income in their respective category were more likely to purchase bikes.
 
-Short distance commuters tend to purchase bikes compared to long distance commuters.
+- Short distance commuters tend to purchase bikes compared to long distance commuters.
 
 The End
 --------------------
